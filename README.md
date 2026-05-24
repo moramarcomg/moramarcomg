@@ -30,9 +30,21 @@ An 8-bit CPU emulator written in C++17, built from scratch — from raw register
 
 ---
 
+### [Expense Tracker](https://github.com/moramarcomg/expenseTracker) *(In Progress)*
+A full-stack web application for tracking personal expenses, currently under active development.
+
+- React frontend with a clean, responsive UI
+- REST API built with Node.js and Express
+- MongoDB for persistent data storage
+- Covers the full stack: from UI to database layer
+
+`React` `JavaScript` `HTML` `CSS` `Node.js` `Express` `MongoDB` `Full Stack`
+
+---
+
 ## Skills
 
-`C++` `Python` `C` `Algorithms & Data Structures` `Systems Programming` `CMake` `Git`
+`C++` `Python` `C` `JavaScript` `Algorithms & Data Structures` `Systems Programming` `CMake` `Git` `React` `Node.js` `MongoDB`
 
 ---
 
@@ -40,4 +52,12 @@ An 8-bit CPU emulator written in C++17, built from scratch — from raw register
 
 - **Email:** [mora.marcomg@gmail.com](mailto:mora.marcomg@gmail.com)
 - **LinkedIn:** [marco-mora-gomez](https://www.linkedin.com/in/marco-mora-gomez/)
-- **CV:** [Download PDF](./cv.pdf)
+
+---
+
+## Code Exercises
+
+### [codeExercises](https://github.com/moramarcomg/codeExercises)
+Personal repository for practicing coding exercises and common programming challenges. Solutions written in multiple languages including C++, Python and JavaScript. Most problems sourced from freeCodeCamp.
+
+`C++` `Python` `JavaScript` `Algorithms` `freeCodeCamp`
