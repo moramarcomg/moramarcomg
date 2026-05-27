@@ -58,6 +58,6 @@ A full-stack web application for tracking personal expenses, currently under act
 ## Code Exercises
 
 ### [codeExercises](https://github.com/moramarcomg/codeExercises)
-Personal repository for practicing coding exercises and common programming challenges. Solutions written in multiple languages including C++, Python and JavaScript. Most problems sourced from freeCodeCamp.
+Personal repository for practicing coding exercises, data-structures, sorting-algorithms and common programming challenges. Solutions written in multiple languages including C++, Python, JavaScript, Java and C. Most problems sourced from freeCodeCamp and LeetCode.
 
 `C++` `Python` `JavaScript` `Algorithms` `freeCodeCamp`
