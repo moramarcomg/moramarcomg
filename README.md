@@ -1,4 +1,4 @@
-# Marco Antonio Mora Gómez
+# Marco Mora
 
 Computer Science student passionate about systems programming, algorithms, and low-level software development. I enjoy building projects that require understanding how things work under the hood — from CPU architectures to pathfinding algorithms.
 
